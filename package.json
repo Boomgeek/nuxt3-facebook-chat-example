@@ -9,7 +9,9 @@
   },
   "devDependencies": {
     "@types/node": "^18.17.3",
-    "nuxt": "^3.6.5",
-    "nuxt-facebook-chat": "^1.0.1"
+    "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "nuxt-facebook-chat": "^1.0.2"
   }
 }
