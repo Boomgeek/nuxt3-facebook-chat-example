@@ -12,6 +12,6 @@
     "nuxt": "^3.6.5"
   },
   "dependencies": {
-    "nuxt-facebook-chat": "^1.0.2"
+    "nuxt-facebook-chat": "^1.0.4"
   }
 }
